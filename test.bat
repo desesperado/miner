@@ -1,0 +1,2 @@
+nheqminer -b
+pause
